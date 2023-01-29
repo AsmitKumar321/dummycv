@@ -1,2 +1,1 @@
-Day 1 ; I Learn HTML here project link.
-CV : https://asmitkumar321.github.io/cv/
+Day 1 ; I Learn HTML here project link:https://asmitkumar321.github.io/dummycv/
